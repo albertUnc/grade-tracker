@@ -49,9 +49,13 @@ I would say the terminal-based c++ application is much better. It is faster, eas
 # Upcoming:
 #### planning to do in next updates
 -Adding support to set any max and min value for grades, so it doesn't only work 1-10
+
 -Adding pre-built windows version for the c++ app alongside Linux support
+
 -Fixing as much bugs as i can find/people report
+
 -Adding backups/protection so if you have a lot of data of grades it doesn't accidentally get destroyed
+
 -Probably either fully removing or improving the python tool a lot (For example adding support to run it without installing anything else)
 
 ## Support me
